@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaydeep Kaushik
 
-Frontend Developer with 2+ years of experience building scalable web applications, AI-powered platforms, and modern user interfaces. I specialize in Angular, TypeScript, and JavaScript, with a strong focus on creating responsive, high-performance applications that deliver exceptional user experiences.
+Frontend Developer with 2 years of experience building scalable web applications, AI-powered platforms, and modern user interfaces. I specialize in Angular, TypeScript, and JavaScript, with a strong focus on creating responsive, high-performance applications that deliver exceptional user experiences.
 
 ## 🚀 About Me
 
