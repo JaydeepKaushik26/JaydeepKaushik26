@@ -5,7 +5,7 @@ Frontend Developer with 2 years of experience building scalable web applications
 ## 🚀 About Me
 
 * Frontend Developer specializing in Angular
-* 2+ years of professional software development experience
+* 2 years of professional software development experience
 * Built and delivered 20+ production-ready web applications
 * Experienced in AI-powered applications and RAG-based solutions
 * Passionate about clean architecture, reusable components, and performance optimization
